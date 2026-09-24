@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "elss-sid#1",
+    "source_id": "elss-sid",
+    "scheme": "groww-elss-tax-saver",
+    "plan": null,
+    "heading": "Highlights / Summary of Scheme — Lock-in Period",
+    "text": "An open ended equity linked saving scheme with a statutory lock-in of 3 years and tax benefit. The lock-in period for the ELSS scheme is three years from the date of allotment of units. In terms of Equity Linked Savings Scheme (ELSS) guidelines notified by the Central Government, each investment (including each SIP installment) is subject to a statutory lock-in period of 3 years from the date of allotment. Units cannot be redeemed, switched out, or transferred until the completion of 3 years from the date of allotment."
+  },
+  {
+    "chunk_id": "elss-kim#1",
+    "source_id": "elss-kim",
+    "scheme": "groww-elss-tax-saver",
+    "plan": null,
+    "heading": "Tax Treatment and Lock-in for ELSS",
+    "text": "Groww ELSS Tax Saver Fund offers tax deductions to investors under Section 80C of the Income Tax Act, 1961, up to the prescribed statutory limit per financial year. Every allotment of units under the scheme has a mandatory 3-year lock-in period. For Systematic Investment Plans (SIP), each installment has its own separate 3-year lock-in starting from that specific installment's allotment date."
+  },
+  {
+    "chunk_id": "amfi-categorization#1",
+    "source_id": "amfi-categorization",
+    "scheme": null,
+    "plan": null,
+    "heading": "Categorization of Mutual Fund Schemes — Equity Linked Saving Scheme",
+    "text": "Equity Linked Savings Schemes (ELSS) are open-ended equity schemes with a statutory lock-in period of 3 years and tax benefit. Under SEBI regulations, an ELSS must invest a minimum of 80% of total assets in equity and equity-related instruments in accordance with the Equity Linked Savings Scheme, 2005 notified by the Ministry of Finance."
+  },
+  {
+    "chunk_id": "amfi-investor-corner#1",
+    "source_id": "amfi-investor-corner",
+    "scheme": null,
+    "plan": null,
+    "heading": "Investor Corner — What is Total Expense Ratio (TER)?",
+    "text": "Total Expense Ratio (TER) represents the annual operating expenses of a mutual fund scheme expressed as a percentage of its daily average net assets. It covers fund management charges, trustee fees, custodian charges, registrar and transfer agent fees, marketing and audit expenses. The expense ratio is deducted on a daily basis from the scheme's net assets, so the published Net Asset Value (NAV) is already net of all expenses."
+  },
+  {
+    "chunk_id": "amfi-investor-corner#2",
+    "source_id": "amfi-investor-corner",
+    "scheme": null,
+    "plan": null,
+    "heading": "Investor Corner — Difference Between Direct Plan and Regular Plan",
+    "text": "Every mutual fund scheme offers two investment routes: Direct Plan and Regular Plan. In a Direct Plan, the investor buys directly from the Asset Management Company without intermediary commissions, resulting in a lower Total Expense Ratio and a higher NAV over time. In a Regular Plan, investments are routed through an AMFI-registered distributor or broker who receives ongoing trail commission paid out of the scheme's expenses, leading to a higher expense ratio."
+  },
+  {
+    "chunk_id": "amfi-investor-corner#3",
+    "source_id": "amfi-investor-corner",
+    "scheme": null,
+    "plan": null,
+    "heading": "Investor Corner — Understanding Exit Load",
+    "text": "An exit load is a fee or deduction levied by an Asset Management Company when an investor redeems or switches units of a mutual fund before a specified holding period. The primary objective is to discourage short-term withdrawals and protect the interests of long-term unit holders. Exit loads vary by scheme category: open-ended equity schemes typically apply 1% within 7 to 365 days, whereas liquid funds apply a day-wise graded exit load during the first 6 days."
+  },
+  {
+    "chunk_id": "amfi-investor-corner#4",
+    "source_id": "amfi-investor-corner",
+    "scheme": null,
+    "plan": null,
+    "heading": "Investor Corner — Riskometer Guidelines and Methodology",
+    "text": "The Riskometer is a visual representation designed by SEBI to depict the risk level of mutual fund schemes. It features six distinct levels of risk: Low, Low to Moderate, Moderate, Moderately High, High, and Very High. Mutual fund houses evaluate and update the riskometer of all schemes on a monthly basis based on portfolio characteristics such as credit rating, duration, and liquidity for debt schemes, and market capitalization, volatility, and impact cost for equity schemes."
+  },
+  {
+    "chunk_id": "kfintech-capital-gains-statement#1",
+    "source_id": "kfintech-capital-gains-statement",
+    "scheme": null,
+    "plan": null,
+    "heading": "KFintech Portal — Capital Gains / Loss Account Statement Download",
+    "text": "Investors can generate and download their Capital Gains/Loss Account Statement directly from the KFintech Investor Portal (mfs.kfintech.com/investor). The statement provides realized short-term and long-term capital gains across mutual fund folios serviced by KFin Technologies for any selected financial year. To download: enter your registered PAN and email ID, choose the financial year and delivery mode (instant download or email with password protection), and verify via the One-Time Password sent to your registered contact."
+  },
+  {
+    "chunk_id": "kfintech-capital-gains-statement#2",
+    "source_id": "kfintech-capital-gains-statement",
+    "scheme": null,
+    "plan": null,
+    "heading": "KFintech Portal — Consolidated Account Statement (CAS)",
+    "text": "A Consolidated Account Statement (CAS) contains details of all financial and non-financial transactions and portfolio holdings across all mutual funds and demat accounts associated with an investor's PAN. Investors can request a CAS through the KFintech portal, CAMS online, or AMFI/depositories (NSDL/CDSL) by selecting the desired date range and providing their registered email ID and PAN."
+  },
+  {
+    "chunk_id": "large-cap-kim#1",
+    "source_id": "large-cap-kim",
+    "scheme": "groww-large-cap",
+    "plan": null,
+    "heading": "How to Register an SIP via Key Information Memorandum (KIM)",
+    "text": "Systematic Investment Plans (SIP) can be registered using the application form attached to the Key Information Memorandum (KIM) or through the official fund house online portal. Investors fill in scheme details, SIP frequency (monthly/quarterly), investment amount (minimum ₹500), SIP date, and submit an authorized One-Time Mandate (OTM) or NACH/eNACH form linking their verified bank account for automated debit."
+  },
+  {
+    "chunk_id": "large-cap-sid#1",
+    "source_id": "large-cap-sid",
+    "scheme": "groww-large-cap",
+    "plan": null,
+    "heading": "Investment Objective — Groww Large Cap Fund",
+    "text": "The investment objective of Groww Large Cap Fund is to generate long-term capital appreciation by predominantly investing in equity and equity-related instruments of large-cap companies. The scheme invests at least 80% of its total assets in top 100 companies by market capitalization, benchmarked against the Nifty 100 TRI."
+  },
+  {
+    "chunk_id": "nifty-tmi-sid#1",
+    "source_id": "nifty-tmi-sid",
+    "scheme": "groww-nifty-total-market-index",
+    "plan": null,
+    "heading": "Investment Objective — Groww Nifty Total Market Index Fund",
+    "text": "The investment objective of Groww Nifty Total Market Index Fund is to generate returns that correspond to the total returns of securities represented by the Nifty Total Market Index, subject to tracking errors. The scheme passively replicates the index covering large-cap, mid-cap, small-cap, and micro-cap segments of the Indian market."
+  },
+  {
+    "chunk_id": "liquid-sid#1",
+    "source_id": "liquid-sid",
+    "scheme": "groww-liquid",
+    "plan": null,
+    "heading": "Investment Objective & Exit Load Mechanics — Groww Liquid Fund",
+    "text": "Groww Liquid Fund aims to provide reasonable returns commensurate with low risk and a high degree of liquidity by investing in money market and debt instruments with maturity up to 91 days. Exit load is graded across the first six days following purchase NAV date: Day 1: 0.007%, Day 2: 0.0065%, Day 3: 0.006%, Day 4: 0.0055%, Day 5: 0.005%, Day 6: 0.0045%, and Nil from Day 7 onwards."
+  }
+]

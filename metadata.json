@@ -1,0 +1,8 @@
+{
+  "name": "Groww Assist — Facts-Only Mutual Fund RAG Assistant",
+  "description": "A verified, facts-only RAG assistant for Groww Mutual Funds that answers factual scheme queries with official citations while strictly refusing investment advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
